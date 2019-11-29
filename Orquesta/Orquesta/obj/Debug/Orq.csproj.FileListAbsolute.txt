@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\igna\Orquesta\Orquesta\bin\Debug\Orquesta.exe.config
+C:\Users\alumno\Desktop\igna\Orquesta\Orquesta\bin\Debug\Orquesta.exe
+C:\Users\alumno\Desktop\igna\Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+C:\Users\alumno\Desktop\igna\Orquesta\Orquesta\obj\Debug\Orq.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\igna\Orquesta\Orquesta\obj\Debug\Orq.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\igna\Orquesta\Orquesta\obj\Debug\Orquesta.exe
+C:\Users\alumno\Desktop\igna\Orquesta\Orquesta\obj\Debug\Orquesta.pdb
